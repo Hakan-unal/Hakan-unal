@@ -18,6 +18,6 @@ Software Engineer - Devtagon Teknoloji ve Bilişim Çözümleri (https://devtago
 
 ## Contact Me 📫
 
-You can find and get touch with me via Linkedin and Instagram!
+You can find and get touch with me via Linkedin!
 
-[![Linkedin Badge](https://img.shields.io/badge/Hakan-unal-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakan-unal/)
+[![Linkedin Badge](https://img.shields.io/badge/mustafamuratcoskun-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakan-unal/)
