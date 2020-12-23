@@ -13,7 +13,7 @@ Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
 
 ## I'm currently working on 🔭
 
-Software Engineer - Devtagon Teknoloji ve Bilişim Çözümleri (https://devtagon.com/)
+Software Engineer - Devtagon Bilişim ve Teknoloji Çözümleri (https://devtagon.com/)
 
 
 ## Contact Me 📫
