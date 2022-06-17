@@ -1,3 +1,7 @@
+<div align="center" style="margin: 20px">
+  <img src="https://www.macleans.ca/wp-content/uploads/2019/11/BABY-YODA-MANDALORIAN-NOV19-810x445.jpg">
+</div>
+
 ### Hi! Welcome to my github page. 👋
 
 
