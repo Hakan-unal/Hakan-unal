@@ -22,4 +22,4 @@ Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
 
 You can find and get touch with me via Linkedin!
 
-(https://www.linkedin.com/in/hakan-unal/)
+(https://www.hakanunal.com)
