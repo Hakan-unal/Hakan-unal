@@ -20,6 +20,6 @@ Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
 
 ## Contact Me 📫
 
-You can find and get touch with me via Linkedin!
+You can find and get touch with me via Website!
 
 (https://www.hakanunal.com)
