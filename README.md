@@ -5,7 +5,7 @@
 ### Hi! Welcome to my github page. 👋
 
 
-I'm Hakan Ünal. Software Engineer - Devtagon
+I'm Hakan Ünal. Software Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hakan-unal)
 
@@ -15,9 +15,7 @@ I'm Hakan Ünal. Software Engineer - Devtagon
 
 Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
 
-## I'm currently working on 🔭
 
-Software Engineer - Devtagon Bilişim ve Teknoloji Çözümleri (https://devtagon.com/)
 
 
 ## Contact Me 📫
