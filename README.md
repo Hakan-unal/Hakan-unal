@@ -7,9 +7,12 @@
 
 I'm Hakan Ünal. Software Engineer
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hakan-unal" alt="Hakan-unal /></a> </p>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Hakan-unal)
 
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-unal&show_icons=true)
+![Hakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-unal&show_icons=true)
 
 ## Graduation
 
