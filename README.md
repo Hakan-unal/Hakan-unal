@@ -23,13 +23,12 @@ I'm Hakan Ünal. Software Engineer
                                                              </div>
 
 
-<div align="left" style="margin: 20px">
 
 ## Graduation
 
 Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
 
-                                                             </div>
+                                                             
 
 
 
