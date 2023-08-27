@@ -13,21 +13,23 @@ I'm Hakan Ünal. Software Engineer
 
 ![Hakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-unal&show_icons=true)
 
-<div align="center" style="margin: 20px">
+<div align="left" style="margin: 20px">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakan-unal&" alt="Hakan-unal" />
 </div>
 
 
-<div align="center" style="margin: 20px">
+<div align="left" style="margin: 20px">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hakan-unal" alt="Hakan-unal /></a> 
                                                              </div>
 
 
+<div align="left" style="margin: 20px">
 
 ## Graduation
 
 Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
 
+                                                             </div>
 
 
 
