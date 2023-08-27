@@ -13,9 +13,15 @@ I'm Hakan Ünal. Software Engineer
 
 ![Hakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-unal&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakan-unal&" alt="Hakan-unal" /></p>
+<div align="center" style="margin: 20px">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakan-unal&" alt="Hakan-unal" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hakan-unal" alt="Hakan-unal /></a> </p>
+
+<div align="center" style="margin: 20px">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hakan-unal" alt="Hakan-unal /></a> 
+                                                             </div>
+
 
 
 ## Graduation
