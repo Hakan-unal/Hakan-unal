@@ -18,11 +18,6 @@ I'm Hakan Ünal. Software Engineer
 </div>
 
 
-<div align="left" style="margin: 20px">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hakan-unal" alt="Hakan-unal /></a> 
-                                                             </div>
-
-
 
 ## Graduation
 
