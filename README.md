@@ -1,34 +1,18 @@
-<div align="center" style="margin: 20px">
-  <img src="https://www.macleans.ca/wp-content/uploads/2019/11/BABY-YODA-MANDALORIAN-NOV19-810x445.jpg">
-</div>
+<h1 align="center">Hi 👋, I'm Hakan</h1>
+<h3 align="center">A tech savy geek from İstanbul, Turkey</h3>
 
-### Hi! Welcome to my github page. 👋
-
-
-I'm Hakan Ünal. Software Engineer
+- 🌱 I’m currently working **javascript, typescript, react.js, next.js, node.js, express.js, electron.js, web3.js .**
 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hakan-unal)
-
-![Hakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-unal&show_icons=true)
-
-<div align="left" style="margin: 20px">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakan-unal&" alt="Hakan-unal" />
-</div>
+- 👨‍💻 projects are available at [aa.bbs.tr/project](https://hakanunal.com)
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hakan-unal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakanunal" height="30" width="40" /></a>
+  
+<a href="https://stackoverflow.com/users/22632846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22632846" height="30" width="40" /></a>
 
-## Graduation
-
-Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
-
-                                                             
-
-
-
-## Contact Me 📫
-
-You can find and get touch with me via Website!
-
-(https://www.hakanunal.com)
+<a href="https://www.youtube.com/c/abbaselmass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abbaselmass" height="30" width="40" /></a>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hakan-unal&label=Random%20Number&color=7e9fb4&style=plastic" alt="hakanunal" /> </p>
