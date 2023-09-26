@@ -4,7 +4,7 @@
 - 🌱 I’m currently working **javascript, typescript, react.js, next.js, node.js, express.js, electron.js, web3.js .**
 
 
-- 👨‍💻 projects are available at [aa.bbs.tr/project](https://hakanunal.com)
+- 👨‍💻 projects are available at [https://hakanunal.com]
 
 
 <h3 align="left">Connect with me:</h3>
