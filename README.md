@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">A tech savy geek from İstanbul, Turkey</h3>
 
-- 🌱 I’m currently working **javascript, typescript, react.js, next.js, node.js, express.js, electron.js, web3.js .**
+- 🌱 I’m currently working **javascript, typescript, react.js, react native, next.js, node.js, express.js, electron.js, web3.js .**
 
 
 - 👨‍💻 projects are available at [https://hakanunal.com]
